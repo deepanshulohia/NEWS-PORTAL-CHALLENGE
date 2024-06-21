@@ -1,0 +1,20 @@
+.news-item {
+  max-width: 345px;
+  margin: 20px;
+}
+
+.news-item img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-body .btn {
+  width: 100%;
+  margin-top: 10px;
+}

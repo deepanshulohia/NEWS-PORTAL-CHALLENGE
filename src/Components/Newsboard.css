@@ -1,0 +1,9 @@
+.newsboard {
+  padding: 20px;
+}
+
+.news-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
